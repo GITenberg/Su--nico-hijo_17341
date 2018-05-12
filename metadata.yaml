@@ -1,0 +1,30 @@
+_repo: Su--nico-hijo_17341
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alas, Leopoldo
+    alias: Clarín
+    birthdate: 1852
+    deathdate: 1901
+    gutenberg_agent_id: '7120'
+    url: http://www.gutenberg.org/2009/agents/7120
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Leopoldo_Alas_y_Ure%C3%B1a
+    - http://es.wikipedia.org/wiki/Leopoldo_Alas_%28%22Clar%C3%ADn%22%29
+description: ''
+gutenberg_issued: '2005-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17341'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+title: Su único hijo
+url: http://www.gutenberg.org/ebooks/17341
