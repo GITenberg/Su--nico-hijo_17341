@@ -15,6 +15,8 @@ creator:
     - http://en.wikipedia.org/wiki/Leopoldo_Alas_y_Ure%C3%B1a
     - http://es.wikipedia.org/wiki/Leopoldo_Alas_%28%22Clar%C3%ADn%22%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17341#Su--nico-hijo
 gutenberg_issued: '2005-12-17'
 gutenberg_type: Text
 identifiers:
